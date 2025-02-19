@@ -7,7 +7,7 @@ Welcome to my Data Science & Machine Learning portfolio! This repository showcas
 ## 🛠 Databases  
 
 ### **SQL**  
-- **[📌 SQL Queries – Northwind Database ](https://github.com/DarianRodriguez/Portfolio/SQL)**  
+- **[📌 SQL Queries – Northwind Database ](https://github.com/DarianRodriguez/Portfolio/tree/main/SQL)**  
   **Description:** This repository showcases **advanced SQL queries** using the **Northwind database**, a sample dataset representing a **retail business** selling products worldwide. The queries cover various operations, including filtering, aggregations, ranking, and window functions.  
 
   **Tools:** PostgreSQL, SQL  
@@ -64,14 +64,14 @@ Welcome to my Data Science & Machine Learning portfolio! This repository showcas
 ## 📊 Data Visualization  
 Projects focused on creating clear, insightful visualizations for decision-making and analysis.  
 
-- **[🔍 Telco Customer Churn Analysis](https://github.com/DarianRodriguez/Portfolio/EDAS)**  
+- **[🔍 Telco Customer Churn Analysis](https://github.com/DarianRodriguez/Portfolio/tree/main/EDAS)**  
   **Description:** Performed an extensive exploratory data analysis (EDA) on a telecom customer churn dataset to identify patterns related to service usage and customer retention. The analysis focuses on key features such as tenure, contract type, payment methods, and monthly/total charges, examining how these influence customer churn. Visualizations, correlation analysis, and insights into the relationship between different services and churn rate were explored to uncover actionable insights for improving customer retention strategies.  
 
   **Dataset:** [Telco Customer Churn Dataset - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)  
   **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook.
 
 
-- **[📊 Power BI Sales and Performance Dashboard](https://github.com/DarianRodriguez/Portfolio/PowerBI)**  
+- **[📊 Power BI Sales and Performance Dashboard](https://github.com/DarianRodriguez/Portfolio/tree/main/PowerBI)**  
   **Description:** Designed an interactive Power BI dashboard for a global manufacturing company specializing in cycling equipment and accessories. The dashboard tracks key performance indicators (KPIs) including sales, revenue, profit, and returns. It enables users to compare regional performance, analyze product-level trends, and identify high-value customers. The project includes building a relational data model, creating calculated columns and measures with DAX and designing a user-friendly interface to visualize insights.  
   
   **Tools:** Power BI Desktop, DAX, SQL, Data Modeling
