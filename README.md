@@ -41,6 +41,14 @@ Welcome to my Data Science & Machine Learning portfolio! This repository showcas
 
     **Tools & Models:** Python, Scikit-learn, TensorFlow, CNN, SVM, MLP, Random Forest, Decision Trees
 
+### **Clustering**  
+- **[👥 Customer Segmentation Project](https://github.com/DarianRodriguez/Customer-Segmentation)**  
+  **Description:** This project segments customers based on demographics, spending habits, and channel usage. These insights drive tailored marketing strategies and improved customer engagement.It identifies three key groups:  
+  - **Cluster 0: High-Value, Traditional** – High income, heavy spending, older customers with strong catalog and store engagement.  
+  - **Cluster 1: Low-Spending** – Low income, minimal spending, younger customers who frequent digital channels.  
+  - **Cluster 2: Mid-Spend, Promotion-Responsive** – Mid-range income, balanced purchasing, older customers highly responsive to promotions.  
+
+  **Tools & Models:** Jupyter Notebook, Scikit-learn, K-Means Clustering, Agglomerative Clustering
 
 ---
 
